@@ -1,0 +1,22 @@
+import React from 'react';
+
+
+interface Iprops {
+
+}
+interface Istate {
+
+}
+
+
+let Name: React.FC<Iprops> = () => {
+  return (
+    <>
+      
+    </>
+  )
+}
+
+
+export default Name;
+
